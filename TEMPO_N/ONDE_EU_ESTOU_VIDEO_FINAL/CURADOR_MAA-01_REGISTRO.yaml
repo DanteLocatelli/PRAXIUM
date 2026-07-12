@@ -1,0 +1,34 @@
+registro_id: "CURADOR-MAA01-ONDE-EU-ESTOU-2026-07-12"
+projeto_titular: "TEMPO N"
+obra: "ONDE EU ESTOU?"
+tipo: "pacote audiovisual / musica / slides / arte visual"
+valor_mprd: "alto"
+justificativa: "A obra ja reune audio, imagem e estrutura visual suficientes para montagem e publicacao TEMPO N."
+resumo_inteligente: "Pacote consolidado de ONDE EU ESTOU? com identidade visual, trilha principal e roteiro de montagem para versoes 16:9 e 9:16."
+resumo_invocavel: "Retomar ONDE EU ESTOU? como obra TEMPO N pronta para montagem audiovisual e publicacao."
+decisao_audio:
+  principal:
+    arquivo_origem: "ONDE EU ESTOU (1).mp3"
+    nome_padronizado: "onde_eu_estou_audio_principal.mp3"
+    duracao_aproximada: "04:25"
+  curta:
+    arquivo_origem: "ONDE EU ESTOU.mp3"
+    nome_padronizado: "onde_eu_estou_audio_curta.mp3"
+    duracao_aproximada: "03:40"
+ativos_padronizados:
+  - "onde_eu_estou_capa_mosaico.png"
+  - "tempo_n_onde_eu_estou_slides_reparado.pptx"
+  - "onde_eu_estou_audio_principal.mp3"
+  - "onde_eu_estou_audio_curta.mp3"
+entregaveis:
+  - "onde_eu_estou_master_16x9.mp4"
+  - "onde_eu_estou_corte_9x16.mp4"
+  - "onde_eu_estou_thumbnail_oficial.png"
+  - "legenda_curta_publicacao"
+destino:
+  - "Curador"
+  - "TEMPO N"
+  - "PRAXIUM visual"
+  - "MAA-01"
+status: "pronto para publicacao"
+local_pacote: "/home/runner/work/PRAXIUM/PRAXIUM/TEMPO_N/ONDE_EU_ESTOU_VIDEO_FINAL"
